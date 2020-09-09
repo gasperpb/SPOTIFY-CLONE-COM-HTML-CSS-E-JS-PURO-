@@ -1,0 +1,2 @@
+# SPOTIFY-CLONE-COM-HTML-CSS-E-JS-PURO-
+SPOTIFY CLONE COM HTML, CSS E JS (PURO), para forma de estudo e pratica 
